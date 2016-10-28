@@ -1,8 +1,5 @@
 space ice cream
 nerf darts
 telescope light shield
-<<<<<<< HEAD
-=======
 
 Software Construction and Maintenance
->>>>>>> refs/remotes/origin/wish-list
